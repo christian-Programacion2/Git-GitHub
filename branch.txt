@@ -1,0 +1,10 @@
+comandos para un branch
+
+//crear
+	git branch nameBranch
+
+//posicionarme a la rama
+	git checkout nameBranch
+
+//subir de la rama (se debe comitear primero)
+	git push origin namebranch
